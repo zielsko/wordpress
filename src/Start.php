@@ -1,6 +1,6 @@
 <?php
 
-namespace blowmedia\wordpress;
+namespace Blowmedia;
 
 class Start {
 
