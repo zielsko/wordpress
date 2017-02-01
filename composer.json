@@ -9,9 +9,6 @@
       "email": "info@blowmedia.pl"
     }
   ],
-  "require": {
-    "atomita/wordpress-eloquent": "v0.0.2"
-  },
   "autoload": {
     "psr-4": {
       "Blowmedia\\": "src/"
