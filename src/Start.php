@@ -4,7 +4,7 @@ namespace Blowmedia;
 
 class Start {
 
-  function init() {
+  static function init() {
 
     echo 'aaa';
 
