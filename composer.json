@@ -1,0 +1,20 @@
+{
+  "name": "blowmedia/wordpress",
+  "description": "Essentials for wordpress by blowmedia.pl",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Przemysław Zieliński",
+      "email": "info@blowmedia.pl"
+    }
+  ],
+  "require": {
+    "atomita/wordpress-eloquent": "v0.0.2"
+  },
+  "autoload": {
+    "psr-0": {
+      "Blowmedia": "src/"
+    }
+  }
+}
